@@ -1,0 +1,123 @@
+{
+  "mahasiswa" : [{
+  "id": 1,
+  "name": "Dorise Cabrera",
+  "gender": "Female"
+}, {
+  "id": 2,
+  "name": "Dag Keming",
+  "gender": "Male"
+}, {
+  "id": 3,
+  "name": "Alessandro Hendrickx",
+  "gender": "Male"
+}, {
+  "id": 4,
+  "name": "Angie Spriddle",
+  "gender": "Male"
+}, {
+  "id": 5,
+  "name": "Timmy Burnitt",
+  "gender": "Female"
+}, {
+  "id": 6,
+  "name": "Linn Drinkhill",
+  "gender": "Male"
+}, {
+  "id": 7,
+  "name": "Rafferty Byllam",
+  "gender": "Male"
+}, {
+  "id": 8,
+  "name": "Barrett Misken",
+  "gender": "Male"
+}, {
+  "id": 9,
+  "name": "Gwenore Arnault",
+  "gender": "Female"
+}, {
+  "id": 10,
+  "name": "Modestia Hayden",
+  "gender": "Female"
+}, {
+  "id": 11,
+  "name": "Zerk Maddock",
+  "gender": "Male"
+}, {
+  "id": 12,
+  "name": "Flora Taffe",
+  "gender": "Female"
+}, {
+  "id": 13,
+  "name": "Dew Cubin",
+  "gender": "Male"
+}, {
+  "id": 14,
+  "name": "Lark Blonfield",
+  "gender": "Female"
+}, {
+  "id": 15,
+  "name": "Jonis Upstone",
+  "gender": "Female"
+}, {
+  "id": 16,
+  "name": "Lisbeth Tofanelli",
+  "gender": "Female"
+}, {
+  "id": 17,
+  "name": "Ericha Skelding",
+  "gender": "Female"
+}, {
+  "id": 18,
+  "name": "Alfi Shovelton",
+  "gender": "Female"
+}, {
+  "id": 19,
+  "name": "Ellene Shearsby",
+  "gender": "Female"
+}, {
+  "id": 20,
+  "name": "Penrod Di Bartolommeo",
+  "gender": "Male"
+}, {
+  "id": 21,
+  "name": "Melessa Nickerson",
+  "gender": "Female"
+}, {
+  "id": 22,
+  "name": "Caz Harness",
+  "gender": "Male"
+}, {
+  "id": 23,
+  "name": "Opaline Hawsby",
+  "gender": "Female"
+}, {
+  "id": 24,
+  "name": "Rubina Bolzmann",
+  "gender": "Female"
+}, {
+  "id": 25,
+  "name": "Fiona Carlsson",
+  "gender": "Female"
+}, {
+  "id": 26,
+  "name": "Giff Radbond",
+  "gender": "Male"
+}, {
+  "id": 27,
+  "name": "Aidan Icom",
+  "gender": "Female"
+}, {
+  "id": 28,
+  "name": "Pooh Lanon",
+  "gender": "Male"
+}, {
+  "id": 29,
+  "name": "Wini Cotherill",
+  "gender": "Female"
+}, {
+  "id": 30,
+  "name": "Lula Pruvost",
+  "gender": "Female"
+}]
+}
